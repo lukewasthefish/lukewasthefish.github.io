@@ -4,11 +4,13 @@ You can reach me quickest at this e-mail : Lukewasthefish@gmail.com
 
 ## Digital Game and Simulation
 
-Check out some of my finished projects on my itch.io page [Here](https://lukewasthefish.itch.io).
+Check out some of my playable finished projects on my itch.io page [here](https://lukewasthefish.itch.io).
 
-### 3D Modeling and Animation
 
-### Level Design
+
+## 3D Modeling and Animation
+
+## Level Design
 
 Some level timelapse videos for your viewing pleasure:
 
