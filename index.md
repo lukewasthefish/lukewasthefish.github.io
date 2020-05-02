@@ -1,20 +1,7 @@
-## Contact
+## Home
+Click your desired destination below to start exploring that part of my portfolio!
 
-You can reach me quickest at this e-mail : Lukewasthefish@gmail.com
-
-## Digital Game and Simulation
-
-Check out some of my playable finished projects on my itch.io page [here](https://lukewasthefish.itch.io).
-
-The Puzzled Horn: A Viking Story
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7tmykCQsQD0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## 3D Modeling and Animation
-
-## Level Design
-
-Some level timelapse videos for your viewing pleasure:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/64k36-4EeN4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9QBUXWfLutI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Level Design](pages/levelDesign.html)
+[Coding](pages/coding.html)
+[3D Modeling](pages/3Dmodeling.html)
+[About Me](pages/aboutMe.html)
