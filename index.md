@@ -3,8 +3,8 @@ Click your desired destination below to start exploring that part of my portfoli
 
 Afterwards, e-mail me at this address -> lukewasthefish@gmail.com
 
-[Level Design](pages/levelDesign.html)<br>
-[Coding](pages/coding)<br>
-[3D Modeling](pages/3Dmodeling.html)<br>
-[About Me](pages/aboutMe.html)<br>
-[Development Blog](pages/blog.md)<br>
+[Level Design](levelDesign.html)<br>
+[Coding](coding.html)<br>
+[3D Modeling](3Dmodeling.html)<br>
+[About Me](aboutMe.html)<br>
+[Development Blog](blog.html)<br>
