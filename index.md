@@ -17,6 +17,6 @@ Afterwards, e-mail me at this address -> lukewasthefish@gmail.com<br>
 <br>
 <br>
 Other sources for and about my work:<br>
-https://lukewasthefish.itch.io<br>
-https://store.steampowered.com/search/?developer=Luke%20Vincent<br>
-https://exilian.co.uk/forum/index.php?topic=5267.0<br>
+[My Itch.io page](https://lukewasthefish.itch.io)<br>
+[Steam uploads](https://store.steampowered.com/search/?developer=Luke%20Vincent)<br>
+[Exililan Review of Willful](https://exilian.co.uk/forum/index.php?topic=5267.0)<br>
