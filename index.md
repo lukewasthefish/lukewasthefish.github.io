@@ -3,6 +3,7 @@ Click your desired destination below to start exploring that part of my portfoli
 <br>
 Afterwards, e-mail me at this address -> lukewasthefish@gmail.com<br>
 <br>
+[Try some of my web games](webGames.md)<br>
 [Level Design](levelDesign.md)<br>
 [Coding](coding.md)<br>
 [3D Modeling](3Dmodeling.md)<br>
