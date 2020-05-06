@@ -6,8 +6,8 @@ Afterwards, e-mail me at this address -> lukewasthefish@gmail.com<br>
 [About Me](aboutMe.md)<br>
 [Try some of my web games](webGames.md)<br>
 [Level Design](levelDesign.md)<br>
-<!--[Coding](coding.md)<br>-->
 [3D Modeling](3Dmodeling.md)<br>
+<!--[Coding](coding.md)<br>-->
 <!--[Development Blog](blog.md)<br>-->
 <br>
 <br>
