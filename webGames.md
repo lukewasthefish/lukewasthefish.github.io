@@ -6,3 +6,5 @@ Some are download only, to check just see if it says 'play in browser' on the th
 If so, you're good to go!<br>
 <br>
 Otherwise simply download and extract the zip file.<br>
+
+[home](index.md)<br>
