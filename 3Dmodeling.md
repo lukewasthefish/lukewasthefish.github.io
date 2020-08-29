@@ -1,8 +1,6 @@
 ### 3D
 
-3D creations, environments, characters, you name it.<br>
-This is the 3D art gallery.<br>
-
+<img src="images/World of Pursuits Level Progress 1.PNG" alt="">
 <img src="images/CyberHallway.PNG" alt="">
 <img src="images/DesertFactory.PNG" alt="">
 <img src="images/StaticCity.PNG" alt="">
